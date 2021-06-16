@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sully-ATJ
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Nodejs, NoSQL databases with MongoDB and Laravel.
+- 🌱 I’m currently learning Nodejs, ExpressJs, and Laravel. I am also practicing NoSQL databases with MongoDB. 
 - 💞️ I’m looking to collaborate on any web development project.
 - 📫 How to reach me at sully_atj@keemail.me
 
