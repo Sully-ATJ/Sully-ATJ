@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sully-ATJ
 - 👀 I’m interested in Web Development, Machine Learning
 - 🌱 I’m currently learning Laravel, NoSQL database languages and testing different  Machine Learning Models. 
-- 💞️ I’m looking to collaborate on any web development, Ai or machine leanring project.
+- 💞️ I’m looking to collaborate on any web development, Ai or machine learning project.
 - 📫 You can reach me at sully_atj@keemail.me
 
 <!---
