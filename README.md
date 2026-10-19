@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Sully-ATJ
-- 👀 I’m interested in Web Development and Machine Learning
+- 👋 Hi, I’m Suleiman
+- 👀 I’m interested in Web Development and Artificial Intelligence
 - 🌱 I’m currently learning NextJS, Three.js and incorporating AI models into projects. 
 - 💞️ I’m looking to collaborate on any web development or AI project.
 - 📫 You can reach me at suleiman.atj@gmail.com
